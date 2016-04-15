@@ -1,0 +1,59 @@
+#built application files
+*.apk
+*.ap_
+
+
+#InterlliJ IDEA project files
+*.ipr
+*.iws
+out/
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+Thumbs.db
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Android Studio
+*.iml
+.idea
+default.properties
+
+
+# Local IDEA workspace
+.idea/workspace.xml
+
+# Gradle cache
+.gradle
+
+#NDK
+obj/
+
+#Temp files
+*.bak
+*.tmp
+*.temp
+*.swp
+*.vpp~*
+*.*~
+~*.*
