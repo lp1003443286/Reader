@@ -32,7 +32,13 @@
                     android:layout_height="wrap_content"
                     android:text="切换菜单" />
 
+                <ImageView
+                    android:id="@+id/imgView"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp" />
+
                 <FrameLayout
+                    android:visibility="invisible"
                     android:id="@+id/bookShop_frameLayout"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"></FrameLayout>

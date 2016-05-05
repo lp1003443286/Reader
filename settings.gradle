@@ -1,1 +1,1 @@
-include ':app',"xutil","Tools"
+include ':app', ':testdemo', "xutil", "Tools"
